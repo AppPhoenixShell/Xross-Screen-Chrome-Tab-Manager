@@ -38,5 +38,33 @@ Sets the current Tab as a special type 'Search' (not used yet)
 When  the app is installed, right clicking on certain browser content will bring show extra custom options defined by the app. The custom options will be under the 
 'Xross Screen' top level option. The child options will depend on what content was selected
 
+### [URL] Split
+This is a command used when using 'Dual Windows instead of 3 thirds'. This will send the URL to the last foucsed window (will NOT open new tab)
+
+### [URL] LEFT, CENTER, RIGHT
+Sends a 'open link' command to either LEFT, CENTER or RIGHT window (will open new tab)
+
+### [Send] LEFT, CENTER, RIGHT
+Will remove the Tab from the current window and move it LEFT, CENTER, RIGHT window
+
+### [Image] LEFT, CENTER, RIGHT
+Will send the 'open image' comment to either LEFT, CENTER, RIGHT (will open a new tab)
+
+### [Google] LEFT, CENTER, RIGHT
+When highlighting plain text you can send the 'open google' command to either LEFT, CENTER, RIGHT (will open a  new tab)
 
 
+### [Search]
+Search is a special command will send a selected 'plain text' to the Tab marked SEARCH. It will not open a new tab but replace content in the SEARCH tab
+
+### [Youtube]
+Youtube is a special command will send a selected link in youtube to the Tab marked YOUTUBE. It will not open a new tab but replace content in the YOUTUBE tab
+
+### [Reddit]
+Redd is a special command will send a link inside reddit  to the Tab marked REDDIT. It will not open a new tab but replace content in the REDDIT tab
+
+### [Translate]
+Translate is a special command like SEARCH but will add the keyword 'translate' to the query for fast translation searching
+
+### [Gallery]
+Gallery is a speical command that will send a 'open image' url to the Tab marked GALLERY (will not open new tab, but replace content in GALLERY tab)
