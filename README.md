@@ -69,4 +69,9 @@ Translate is a special command like SEARCH but will add the keyword 'translate' 
 ### [Gallery]
 Gallery is a speical command that will send a 'open image' url to the Tab marked GALLERY (will not open new tab, but replace content in GALLERY tab)
 
+## Screenshots
+
 ![Test Image 1](screenshots/menu.png)
+![Test Image 2](screenshots/xcross_1.png)
+![Test Image 3](screenshots/xcross_2.png)
+![Test Image 4](screenshots/xcross_3.png)
