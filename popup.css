@@ -1,0 +1,30 @@
+
+p{
+	color: white;
+}
+
+#divStart{
+	margin-top: 16px;
+}
+
+body{
+	background-color: #202225;
+
+}
+
+button:hover{
+	background-color: #957DAD;
+}
+
+button{
+	color: white;
+	background-color: #70A1D7;
+	margin: 4px;
+	width: 250px;
+	height: 32px;
+}
+
+.nopadd{
+	margin: 0px;
+	padding: 0px;
+}
