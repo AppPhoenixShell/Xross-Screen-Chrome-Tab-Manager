@@ -75,3 +75,8 @@ Gallery is a speical command that will send a 'open image' url to the Tab marked
 ![Test Image 2](screenshots/xcross_1.png)
 ![Test Image 3](screenshots/xcross_2.png)
 ![Test Image 4](screenshots/xcross_3.png)
+
+## Possible Future Features 
+Move model to 'named tabs instead if static LEFT, CENTER, RIGHT. Allow users to name tabs that are used for commands
+
+Embeded Note Screen?
